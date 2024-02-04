@@ -1,0 +1,8 @@
+C:\Users\mat\Desktop\Phemedrone-Stealer\Phemedrone-Stealer\bin\Release\Phemedrone-Stealer.exe
+C:\Users\mat\Desktop\Phemedrone-Stealer\Phemedrone-Stealer\bin\Release\Phemedrone-Stealer.pdb
+C:\Users\mat\Desktop\Phemedrone-Stealer\Phemedrone-Stealer\obj\Release\Phemedrone-Stealer.csproj.AssemblyReference.cache
+C:\Users\mat\Desktop\Phemedrone-Stealer\Phemedrone-Stealer\obj\Release\Phemedrone-Stealer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mat\Desktop\Phemedrone-Stealer\Phemedrone-Stealer\obj\Release\Phemedrone-Stealer.csproj.ResolveComReference.cache
+C:\Users\mat\Desktop\Phemedrone-Stealer\Phemedrone-Stealer\obj\Release\Phemedrone-Stealer.csproj.CoreCompileInputs.cache
+C:\Users\mat\Desktop\Phemedrone-Stealer\Phemedrone-Stealer\obj\Release\Phemedrone-Stealer.exe
+C:\Users\mat\Desktop\Phemedrone-Stealer\Phemedrone-Stealer\obj\Release\Phemedrone-Stealer.pdb
